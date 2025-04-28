@@ -1,0 +1,7 @@
+streamlit
+langchain
+pinecone
+pypdf
+sentence-transformers
+requests
+langchain-community
